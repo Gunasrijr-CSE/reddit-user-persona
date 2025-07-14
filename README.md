@@ -15,7 +15,7 @@ A AI project that analyzes Reddit users based on their posts and comments to bui
 
 | Persona Output                         | Word Cloud                            |
 |----------------------------------------|----------------------------------------|
-| ![Persona](https://github.com/Gunasrijr-CSE/reddit-user-persona/blob/main/Screenshots/UI.jpeg)     | ![WordCloud](screenshots/wordcloud.png) |
+| ![Persona](https://github.com/Gunasrijr-CSE/reddit-user-persona/blob/main/Screenshots/UI.jpeg)     | ![WordCloud](https://github.com/Gunasrijr-CSE/reddit-user-persona/blob/main/Screenshots/word%20count.jpeg) |
 
 ---
 
@@ -24,6 +24,7 @@ A AI project that analyzes Reddit users based on their posts and comments to bui
  1️⃣ Clone the repo
 
 git clone https://github.com/Gunasrijr-CSE/reddit-user-persona.git
+
 cd reddit-user-persona
 
 2️⃣ Install requirements
@@ -38,7 +39,9 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxx
 4️⃣ Run the app
 
 streamlit run app.py
+
 Paste a Reddit user URL like:
+
 https://www.reddit.com/user/Hungry-Move-6603/
 
 ## Tech Stack
@@ -54,6 +57,7 @@ WordCloud & Pillow
 
 ## Author
 Made with 💻 by Gunasri J R
+
 For the BeyondChats Generative AI Internship Challenge.
 
 
