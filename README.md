@@ -15,7 +15,7 @@ A AI project that analyzes Reddit users based on their posts and comments to bui
 
 | Persona Output                         | Word Cloud                            |
 |----------------------------------------|----------------------------------------|
-| ![Persona](screenshots/ui.png)         | ![WordCloud](screenshots/wordcloud.png) |
+| ![Persona](https://github.com/Gunasrijr-CSE/reddit-user-persona/blob/main/Screenshots/UI.jpeg)     | ![WordCloud](screenshots/wordcloud.png) |
 
 ---
 
