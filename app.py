@@ -13,7 +13,7 @@ load_dotenv()
 # Configure Streamlit page
 st.set_page_config(page_title="Reddit Persona Builder", page_icon="🤖", layout="centered")
 
-# Styling for nicer layout
+# Styling 
 st.markdown("""
     <style>
         .title {
