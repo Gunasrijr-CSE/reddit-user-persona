@@ -1,6 +1,6 @@
 # Reddit User Persona Generator 
 
-A AI project that analyzes Reddit users based on their posts and comments to build a personality profile using OpenAI GPT and visualize their activity with a word cloud.
+AI project that analyzes Reddit users based on their posts and comments to build a personality profile using OpenAI GPT and visualize their activity with a word cloud.
 
 ## Features
 
